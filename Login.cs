@@ -9,7 +9,7 @@ namespace
     {
         public void Login()
         {
-
+            Debug.Log("Login");
         }
     }
 }
